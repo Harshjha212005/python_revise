@@ -1,5 +1,5 @@
-length = int(input("Enter length: ")) 
-breadth = int(input("Enter breadth: ")) 
+length = float(input("Enter length: ")) 
+breadth = float(input("Enter breadth: ")) 
 
 area = length * breadth 
-print(f"Area of Rectangle is: {area}") 
+print(f"Area of Rectangle is: {area}cm2") 
